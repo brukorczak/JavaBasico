@@ -22,16 +22,26 @@ public class Ex6Media {
         System.out.println("A média do aluno é: " + media);
 
         //---------------- EM FLOAT
-        //Scanner primNumS = new Scanner(System.in);
-        //System.out.print("Digite o 1º num: ");
-        //float primeiro = primNumS.nextFloat();
+        //Locale.setDefault(Locale.US);
         //
-        //Scanner segNumS = new Scanner(System.in);
-        //System.out.print("Digite o 2º num: ");
-        //float segundo = segNumS.nextFloat();
+        //        Scanner primNumS = new Scanner(System.in);
+        //        System.out.print("Digite o 1º num: ");
+        //        float primeiro = primNumS.nextFloat();
         //
-        //float media = (primeiro+segundo)/2;
+        //        Scanner segNumS = new Scanner(System.in);
+        //        System.out.print("Digite o 2º num: ");
+        //        float segundo = segNumS.nextFloat();
         //
-        //System.out.println("A média do aluno é: " + media);
+        //        Scanner terNumS = new Scanner(System.in);
+        //        System.out.print("Digite o 2º num: ");
+        //        float terceiro = terNumS.nextFloat();
+        //
+        //        Scanner quarNumS = new Scanner(System.in);
+        //        System.out.print("Digite o 2º num: ");
+        //        float quarto = quarNumS.nextFloat();
+        //
+        //        float media = (primeiro + segundo + terceiro + quarto) / 4;
+        //
+        //        System.out.println("A média do aluno é: " + media);
     }
 }
